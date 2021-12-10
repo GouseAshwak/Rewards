@@ -1,0 +1,7 @@
+{
+    "PORT": 5000,
+    "MONGO_URI":"mongodb+srv://GouseAshwak:9lyX9WhbAfM4RdtC@cluster0.duavf.mongodb.net/rewards",
+    "TWILIO_ACCOUNT_SID":"ACc7c4e265838353c4b9588928643ba61b",
+    "TWILIO_AUTH_TOKEN":"e5307249a88d84a3506949b60d367b3a",
+    "Twilio_Trail_Number":"+15407923510"
+}
